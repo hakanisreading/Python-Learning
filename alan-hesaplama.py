@@ -1,5 +1,3 @@
-"""Yarı çapı verilen bir dairenin alan ve çevresini hesaplayınız"""
-
 pi = 3.14
 
 r = float(input("Yarı çap: "))
