@@ -27,3 +27,4 @@ else:
     print("Girilen bilgiler yanlış!")
 
 print(f"Sorduğunuz mesafedeki toplam yakıt ücretiniz: {toplamYakitUcreti}")
+ 
