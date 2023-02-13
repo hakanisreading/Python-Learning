@@ -38,7 +38,6 @@ class Quiz:
 
     def loadQuestion(self):
         if len(self.questions) == self.questionIndex:
-            # print(f"Quizi tamamladınız. Skorunuz: {self.score}")
             self.displayScore()
         else:
             self.displayProgress()
